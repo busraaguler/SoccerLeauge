@@ -1,0 +1,16 @@
+{
+    "teams": [
+        {"id": 1, "name": "Galatasaray", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 2, "name": "Fenerbahçe", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 3, "name": "Beşiktaş", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 4, "name": "Sivasspor", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 5, "name": "Trabzonspor", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 6, "name": "Çaykur Rizespor", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 7, "name": "Antalyaspor", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 8, "name": "Göztepe", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 9, "name": "Kasımpaşa", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 10, "name": "Adana Demirspor", "league": "Süper Lig", "Country": "Türkiye"},
+        {"id": 11, "name": "Medipol Başakşehir", "league": "Süper Lig", "Country": "Türkiye"}
+       
+    ]
+}
